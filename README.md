@@ -6,9 +6,15 @@ Includes Earth textures, day/night lighting, city lights, clouds, atmosphere, a 
 
 No npm install, map API key, or paid map service is required by the generated globe. You need Codex or Claude Code to use the skill, and a browser with WebGL 2 to view the result. Git is needed for the clone commands below. Python 3 is useful for local previews; another static HTTP server also works.
 
-![Earth with European city lights, daylight along its eastern edge, and the Milky Way in the background](docs/globe-preview.jpg)
+![Earth with European city lights, daylight along its eastern edge, and the Milky Way in the background](docs/globe-milky-way-14e77f63.jpg)
 
 *The bundled globe starter. Imagery credits: Solar System Scope; NASA/Goddard SVS; ESA/Gaia/DPAC. See [third-party notices](THIRD_PARTY_NOTICES.md).*
+
+## Try it live
+
+**[Open the interactive globe →](https://gmmell.github.io/create-globe/)**
+
+No installation needed. Drag to rotate, scroll or pinch to zoom, and explore the day/night boundary and Milky Way. Requires a browser with WebGL 2.
 
 ## Install with your agent
 
